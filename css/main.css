@@ -1,0 +1,77 @@
+* {
+	font-family: Arial;
+}
+li {
+	display: inline-block;
+	font-size: 14px;
+	margin-left: 10px;
+}
+ul {
+	padding: 20px 0px 0px 570px; 
+}
+.team {
+	background: url('../img/grupal.jpg')no-repeat;
+    height: 660px;
+    background-size: 100% 150%;
+    width: 100%;
+}
+.laboratoria {
+	width: 257px;
+    height: 40px;
+    margin-left: 317px;
+    margin-top: 20px;
+}
+.sumate {
+	width: 134px;
+    height: 52px;
+    background-color: #FCB739;
+    padding-top: 15px;
+    margin-left: 135px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -31px;
+    border-radius: 5px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.photo {
+    width: 250px;
+    height: 164px
+}
+.title {
+	font-size: 14px;
+	padding-top: 10px;
+}
+.img {
+	border-bottom: 3px solid black;
+	width: 200px;
+	margin-right: 90px;
+	display: inline-block;
+}
+.tab {
+    margin:70px 0px; 
+    text-align: center;
+}
+h1 {
+	text-align: center;
+}
+span {
+	color: #00AFF0;
+}
+.grey {
+	background-color: #323230;
+	width: 100%;
+	padding: 20px 0px;
+}
+.fa-skype{
+	font-size: 20px;
+	margin-left: 5px;
+	color: #00AFF0;
+}
+.contact{
+	font-size: 14px;
+	display:inline-block;
+	color: white;
+}
